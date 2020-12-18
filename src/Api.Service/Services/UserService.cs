@@ -21,7 +21,7 @@ namespace Api.Service.Services
             return await _reposiory.SelectAsync();
         }
 
-        public async Task<UserEntity> GetTask(Guid id)
+        public async Task<UserEntity> GetId(Guid id)
         {
             return await _reposiory.SelectAsync(id);
         }
