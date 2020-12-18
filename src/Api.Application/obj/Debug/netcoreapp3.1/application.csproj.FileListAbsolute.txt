@@ -57,3 +57,10 @@ C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.A
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
