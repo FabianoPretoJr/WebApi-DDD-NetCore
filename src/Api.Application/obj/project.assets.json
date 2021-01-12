@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "AutoMapper/10.0.0": {
+      "AutoMapper/10.1.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
@@ -15,10 +15,10 @@
           "lib/netstandard2.0/AutoMapper.dll": {}
         }
       },
-      "AutoMapper.Extensions.Microsoft.DependencyInjection/8.0.1": {
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/8.1.0": {
         "type": "package",
         "dependencies": {
-          "AutoMapper": "[10.0.0, 11.0.0)",
+          "AutoMapper": "[10.1.0, 11.0.0)",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "3.0.0",
           "Microsoft.Extensions.Options": "3.0.0"
         },
@@ -517,7 +517,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.0.1",
+          "AutoMapper": "10.0.0",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
           "Data": "1.0.0",
           "Domain": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "3.1.1",
@@ -561,6 +562,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "AutoMapper": "10.1.1",
           "Data": "1.0.0",
           "Domain": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "3.1.1",
@@ -576,14 +578,14 @@
     }
   },
   "libraries": {
-    "AutoMapper/10.0.0": {
-      "sha512": "T09NoqMZBqw0/JEauXulxnmmerl0Zj03e0r6VCcJ0LURWBIaYxZPPoiDv8bHf5Y4x2xcXJp4JPXoCaeOMJfHEA==",
+    "AutoMapper/10.1.1": {
+      "sha512": "uMgbqOdu9ZG5cIOty0C85hzzayBH2i9BthnS5FlMqKtMSHDv4ts81a2jS1VFaDBVhlBeIqJ/kQKjQY95BZde9w==",
       "type": "package",
-      "path": "automapper/10.0.0",
+      "path": "automapper/10.1.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "automapper.10.0.0.nupkg.sha512",
+        "automapper.10.1.1.nupkg.sha512",
         "automapper.nuspec",
         "icon.png",
         "lib/net461/AutoMapper.dll",
@@ -592,14 +594,14 @@
         "lib/netstandard2.0/AutoMapper.xml"
       ]
     },
-    "AutoMapper.Extensions.Microsoft.DependencyInjection/8.0.1": {
-      "sha512": "hhUzmc8Ld7wCuVHJFodsxtPmFqBAhB6nUNQUgaMF3uamQdxOLxntG0dwv+5ApC67GABa8Oay8MEYGg5IgVZP1Q==",
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/8.1.0": {
+      "sha512": "dQyGCAYcHbGuimVvCMu4Ea2S1oYOlgO9XfVdClmY5wgygJMZoS57emPzH0qNfknmtzMm4QbDO9i237W5IDjU1A==",
       "type": "package",
-      "path": "automapper.extensions.microsoft.dependencyinjection/8.0.1",
+      "path": "automapper.extensions.microsoft.dependencyinjection/8.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+        "automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
@@ -1585,11 +1587,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\application.csproj",
+      "projectUniqueName": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\application.csproj",
       "projectName": "application",
-      "projectPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\application.csproj",
+      "projectPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\application.csproj",
       "packagesPath": "C:\\Users\\FOEU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\obj\\",
+      "outputPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FOEU\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1603,14 +1605,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Domain\\Domain.csproj"
+            "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Domain\\Domain.csproj"
             },
-            "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Service\\Service.csproj"
+            "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Service\\Service.csproj"
             }
           }
         }
