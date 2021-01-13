@@ -14,7 +14,7 @@ namespace Data.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.9")
+                .HasAnnotation("ProductVersion", "3.1.6")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
             modelBuilder.Entity("Api.Domain.Entities.UserEntity", b =>
@@ -44,6 +44,16 @@ namespace Data.Migrations
                         .IsUnique();
 
                     b.ToTable("User");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("31792958-2ef4-4444-8955-a97b176a62ef"),
+                            CreateAt = new DateTime(2021, 1, 13, 14, 23, 47, 340, DateTimeKind.Local).AddTicks(1326),
+                            Email = "admin@mail.com",
+                            Name = "Administrador",
+                            UpdateAt = new DateTime(2021, 1, 13, 14, 23, 47, 341, DateTimeKind.Local).AddTicks(4252)
+                        });
                 });
 #pragma warning restore 612, 618
         }
