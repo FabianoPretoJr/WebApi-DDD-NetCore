@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DWn5lyfreCVo25f1wPVkeVbEKDCStVGtB3bjvqlxWthTCRoXMCu1Zd7LPK1OUpDcgXmv4lwUcwG77UAFYZ4gyw==",
+  "dgSpecHash": "0tFo0BNBSVLP7XYuCaV2Ss9SDqmspDS3Idh2ouYApIvJS2ozddbxejx/Ez33xY2XrQxccAzigJ4BMYK+a6Tv5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+  "projectFilePath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FOEU\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\FOEU\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

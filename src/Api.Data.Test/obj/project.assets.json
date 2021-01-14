@@ -6456,11 +6456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectUniqueName": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
       "projectName": "Api.Data.Test",
-      "projectPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
+      "projectPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data.Test\\Api.Data.Test.csproj",
       "packagesPath": "C:\\Users\\FOEU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data.Test\\obj\\",
+      "outputPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FOEU\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6474,17 +6474,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\application.csproj": {
-              "projectPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\application.csproj"
+            "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\application.csproj": {
+              "projectPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Application\\application.csproj"
             },
-            "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data\\Data.csproj"
+            "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Data\\Data.csproj"
             },
-            "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Domain\\Domain.csproj"
+            "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\FOEU\\My Private Documents\\Udemy\\ASPNET Core - DDD\\api_netcore\\src\\Api.Domain\\Domain.csproj"
             }
           }
         }

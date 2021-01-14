@@ -2,7 +2,6 @@ using System;
 using Api.Data.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using Xunit;
 
 namespace Api.Data.Test
 {
