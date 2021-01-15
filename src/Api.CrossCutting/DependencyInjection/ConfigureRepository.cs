@@ -1,3 +1,4 @@
+using System;
 using Api.Data.Data;
 using Api.Data.Implementations;
 using Api.Data.Repository;
@@ -16,7 +17,7 @@ namespace Api.CrossCutting.DependencyInjection
             serviceCollection.AddScoped<IUserRepository, UserImplementation>();
 
             serviceCollection.AddDbContext<ApplicationDbContext>(
-                options => options.UseMySql("server=localhost;port=3306;database=estudotdd;uid=root;password=root")
+                options => options.UseMySql(Environment.GetEnvironmentVariable("DB_CONNECTION"))
             );
         }
     }

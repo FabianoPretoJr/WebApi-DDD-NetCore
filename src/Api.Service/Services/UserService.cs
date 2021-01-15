@@ -30,7 +30,7 @@ namespace Api.Service.Services
         public async Task<UserDTO> GetId(Guid id)
         {
             var entity =  await _reposiory.SelectAsync(id);
-            return _mapper.Map<UserDTO>(entity) ?? new UserDTO();
+            return _mapper.Map<UserDTO>(entity);
         }
 
         public async Task<UserCreateResultDTO> Post(UserCreateDTO user)

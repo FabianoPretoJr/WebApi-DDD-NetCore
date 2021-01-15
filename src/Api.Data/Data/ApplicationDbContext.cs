@@ -13,6 +13,7 @@ namespace Api.Data.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<UserEntity>(new UserMap().Configure);
 
             modelBuilder.Entity<UserEntity>().HasData(
@@ -25,8 +26,6 @@ namespace Api.Data.Data
                     UpdateAt = DateTime.Now
                 }
             );
-
-            base.OnModelCreating(modelBuilder);
         }
     }
 }

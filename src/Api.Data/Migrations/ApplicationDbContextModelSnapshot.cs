@@ -35,7 +35,7 @@ namespace Data.Migrations
                         .HasColumnType("varchar(60) CHARACTER SET utf8mb4")
                         .HasMaxLength(60);
 
-                    b.Property<DateTime>("UpdateAt")
+                    b.Property<DateTime?>("UpdateAt")
                         .HasColumnType("datetime(6)");
 
                     b.HasKey("Id");
@@ -48,11 +48,11 @@ namespace Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("31792958-2ef4-4444-8955-a97b176a62ef"),
-                            CreateAt = new DateTime(2021, 1, 13, 14, 23, 47, 340, DateTimeKind.Local).AddTicks(1326),
+                            Id = new Guid("3468fbbe-175f-4f06-98ca-028585a3998f"),
+                            CreateAt = new DateTime(2021, 1, 15, 13, 45, 26, 450, DateTimeKind.Local).AddTicks(6725),
                             Email = "admin@mail.com",
                             Name = "Administrador",
-                            UpdateAt = new DateTime(2021, 1, 13, 14, 23, 47, 341, DateTimeKind.Local).AddTicks(4252)
+                            UpdateAt = new DateTime(2021, 1, 15, 13, 45, 26, 452, DateTimeKind.Local).AddTicks(411)
                         });
                 });
 #pragma warning restore 612, 618

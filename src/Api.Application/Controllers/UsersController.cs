@@ -49,7 +49,11 @@ namespace Api.Application.Controllers
 
             try
             {
-                return Ok(await _service.GetId(id));
+                var result = await _service.GetId(id);
+                if(result == null)
+                    return NotFound();
+
+                return Ok(result);
             }
             catch (ArgumentException e)
             {
