@@ -2,7 +2,7 @@ using System;
 
 namespace Api.Domain.Models
 {
-    public class CepModel
+    public class CepModel : BaseModel
     {
         private string _cep;
         public string Cep
@@ -11,8 +11,8 @@ namespace Api.Domain.Models
             set { _cep = value; }
         }
         
-        private int _logradouro;
-        public int Logradouro
+        private string _logradouro;
+        public string Logradouro
         {
             get { return _logradouro; }
             set { _logradouro = value; }

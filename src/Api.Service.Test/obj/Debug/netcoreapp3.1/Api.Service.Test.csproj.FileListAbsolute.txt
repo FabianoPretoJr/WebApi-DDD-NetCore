@@ -134,3 +134,4 @@ C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.S
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Service.Test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Service.Test\bin\Debug\netcoreapp3.1\Faker.NETCore.dll
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Service.Test\bin\Debug\netcoreapp3.1\de-DE\Faker.NETCore.resources.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Service.Test\bin\Debug\netcoreapp3.1\xunit.runner.json
