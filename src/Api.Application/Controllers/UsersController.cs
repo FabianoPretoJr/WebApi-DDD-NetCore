@@ -62,6 +62,7 @@ namespace Api.Application.Controllers
         }
 
         [HttpPost]
+        [AllowAnonymous]
         public async Task<IActionResult> Post([FromBody] UserCreateDTO user)
         {
             if(!ModelState.IsValid)

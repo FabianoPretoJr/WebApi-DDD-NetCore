@@ -147,3 +147,4 @@ C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.A
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Aplication.Test\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Aplication.Test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Aplication.Test\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Aplication.Test\bin\Debug\netcoreapp3.1\xunit.runner.json

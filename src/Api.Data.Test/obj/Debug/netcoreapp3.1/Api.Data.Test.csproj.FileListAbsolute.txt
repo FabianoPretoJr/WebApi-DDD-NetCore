@@ -145,3 +145,4 @@ C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.D
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Data.Test\bin\Debug\netcoreapp3.1\application.pdb
 c:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Data.Test\bin\Debug\netcoreapp3.1\Faker.NETCore.dll
 c:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Data.Test\bin\Debug\netcoreapp3.1\de-DE\Faker.NETCore.resources.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Data.Test\bin\Debug\netcoreapp3.1\xunit.runner.json

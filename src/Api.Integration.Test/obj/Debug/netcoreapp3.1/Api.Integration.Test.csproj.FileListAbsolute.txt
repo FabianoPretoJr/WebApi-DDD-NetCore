@@ -147,3 +147,4 @@ C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.I
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Integration.Test\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.TestHost.dll
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Integration.Test\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Integration.Test\bin\Debug\netcoreapp3.1\de-DE\Faker.NETCore.resources.dll
+C:\Users\FOEU\My Private Documents\Udemy\ASPNET Core - DDD\api_netcore\src\Api.Integration.Test\bin\Debug\netcoreapp3.1\xunit.runner.json
