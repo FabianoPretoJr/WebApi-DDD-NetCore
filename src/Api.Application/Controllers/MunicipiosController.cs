@@ -58,7 +58,7 @@ namespace Api.Application.Controllers
         }
 
         [HttpGet]
-        [Route("{idMunicipio}")]
+        [Route("completeById/{idMunicipio}")]
         public async Task<ActionResult> GetCompleteById(Guid idMunicipio)
         {
             if(!ModelState.IsValid)
@@ -79,7 +79,7 @@ namespace Api.Application.Controllers
         }
 
         [HttpGet]
-        [Route("{codIBGE}")]
+        [Route("completeByIBGE/{codIBGE}")]
         public async Task<ActionResult> GetCompleteByIBGE(int codIBGE)
         {
             if(!ModelState.IsValid)
